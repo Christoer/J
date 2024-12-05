@@ -1,0 +1,32 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+
+local window = DrRayLibrary:Load("Paid Hub⭐️", "Default")
+
+local tab = DrRayLibrary.newTab("Main", "ImageIdHere")
+
+tab.newButton("aura.lol dahood", "aura.lol a paid script", function()
+scriptkey = "AURA-7G8D-J3F9";
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Iuarmor/AuraLol/refs/heads/main/asset/v3/Ui/Protected_2098017911724810.txt"))()
+end)
+
+tab.newButton("frost.lol dahood", "frost.lol a paid script", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Csabi6/Frost-lol/refs/heads/main/Frost.lol"))()
+
+end)
+
+tab.newButton("sentinel.cc dahood", "sentinel.cc a paid script", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/skidscript/refs/heads/main/Psalms%20Texh%20(Sentinal.CC%20Rewrite).lua"))()
+
+end)
+
+tab.newButton("jamkles dahood", "jamkles a paid script", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxSkids/Loader/refs/heads/main/Jamkles.lua"))()
+
+end)
+
+local tab = DrRayLibrary.newTab("The strongest battle grounds", "ImageIdHere")
+
+tab.newButton("auto kyoto", "auto does the kyoto for you", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/vAgnYcSh"))()
+
+end)
